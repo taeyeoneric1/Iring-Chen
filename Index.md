@@ -13,7 +13,7 @@
  ### Summer artificial intelligence camp of University of science and technology of China 
   A project of handwriting recognition
  # Hornor and Award
- ### 1.National Mathematical Contest (Maths) Second Prize
- ### 2.Second Prize of Electromagnetic Thesis Competition of University of Science and Technology of China
- ### 3.Excellent Camper of the International Artificial Intelligence Summer Camp of the University of Science and Technology of China
- ### 4.Outstanding Volunteer at World Manufacturing Conference
+ ### National Mathematical Contest (Maths) Second Prize
+ ### Second Prize of Electromagnetic Thesis Competition of University of Science and Technology of China
+ ### Excellent Camper of the International Artificial Intelligence Summer Camp of the University of Science and Technology of China
+ ### Outstanding Volunteer at World Manufacturing Conference
