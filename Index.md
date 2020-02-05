@@ -8,6 +8,8 @@
  # Project Experience
  ### National innovation and entrepreneurship training program for College Students
   Network violence detection based on deep learning  
+  project:Based on text detection, an end-to-end Chinese text recognition network is trained through neural network technology. Can not only detect text areas in text pictures, but also achieve accurate OCR text extraction.
+Find the Chinese sentence representation method and get the data for training. And consider using crawler technology to crawl text content on public forums for manual annotation, so as to obtain the data needed for the next experiment.
  ### The Lab of Professor Weiming Zhang  
  Solar Code
  ### Summer artificial intelligence camp of University of science and technology of China 
