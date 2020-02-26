@@ -1,8 +1,8 @@
- # Yiling Chen
- Email:ustccyleric@mail.ustc.edu.cn   Website:https://Iring-Chen.github.io/  
+ # YiLing Chen
+ Email:ustccyleric@mail.ustc.edu.cn   Website: https://github.com/taeyeoneric1/Iring-Chen
  # RESEARCH INTERESTS
  ### Federated Learning, Differential Privacy  
- 
+
  # Education  
  ### University of Science and Technology of China   
  #### B.E.,School of gifted young,Information Security       
