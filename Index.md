@@ -17,9 +17,9 @@
  #### Finish the deployment of the framework of FATE( an open-source project initiated by Webank’s AI Department to provide a secure computing framework to support the federated learning), and fish the task of vertical federated learning with a good result.  
  
  ## The Lab of Professor Weiming Zhang  
- #### Solar Code
+ #### Studying about Solar Code
  ## Summer artificial intelligence camp of University of science and technology of China 
- #### A project of handwriting recognition  
+ #### Finish a project of handwriting recognition  
  
  # Hornor and Awardvertical
  ### National Mathematical Contest (Maths) Second Prize
